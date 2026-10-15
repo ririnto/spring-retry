@@ -21,7 +21,7 @@
 	</licenses>
 	<packaging>jar</packaging>
 	<properties>
-		<maven.test.failure.ignore>true</maven.test.failure.ignore>
+		<maven.test.failure.ignore>false</maven.test.failure.ignore>
 		<spring.framework.version>4.3.22.RELEASE</spring.framework.version>
 	</properties>
 	<profiles>
